@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Spr3
-- 👀 I’m interested in the Rubiks cube
+- 👀 I’m interested in the Rubiks cube and chess
 - 🌱 I’m currently learning python and C#
 - 💞️ I’m currently working with a goup of 9 people on a Anime style Roblox game
 <!---
